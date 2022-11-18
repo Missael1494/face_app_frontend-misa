@@ -1,0 +1,8 @@
+// AuthReducer
+
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_USER_LOADING = 'LOGIN_USER_LOADING';
+export const REGISTER_USER_LOADING = 'REGISTER_USER_LOADING';
+export const REGISTER_USER = 'REGISTER_USER';
+export const DATA_USER = 'DATA_USER'
+export const DATA_FRIENDS = 'DATA_FRIENDS'
